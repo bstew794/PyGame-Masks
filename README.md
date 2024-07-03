@@ -1,4 +1,4 @@
-# PyGame-Masks
+# PyGame Masks
 
 ## Origin Acknowledgement
 This project was created by me, BStew794, but I am coding this based off a tutorial from the Youtuber "Clear Code" from  Dec 4, 2021 (https://www.youtube.com/watch?v=uW3Fhe-Vkx4&list=WL&index=3).
